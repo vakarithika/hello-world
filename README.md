@@ -4,7 +4,7 @@
 Interactive app to change text, text color, and background colors.
 
 ### App Walk-though
-<img src="https://imgur.com/huwFC0h" width=200><br>
+https://imgur.com/huwFC0h
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
